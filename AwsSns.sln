@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AwsSns", "AwsSns.csproj", "{F80DC633-B4C9-47C4-B916-3E7EBA7ABE8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F80DC633-B4C9-47C4-B916-3E7EBA7ABE8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F80DC633-B4C9-47C4-B916-3E7EBA7ABE8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F80DC633-B4C9-47C4-B916-3E7EBA7ABE8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F80DC633-B4C9-47C4-B916-3E7EBA7ABE8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D4FE3F9-E01D-4E4B-8183-BF2AFA3A3A6B}
+	EndGlobalSection
+EndGlobal
